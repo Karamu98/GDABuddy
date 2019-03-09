@@ -1,0 +1,4 @@
+#Thu Mar 08 23:06:40 GMT 2018
+base.0=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

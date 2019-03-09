@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\e791e4d5527f401bc7e5236d0cf9d71f6db28c42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c71b5e8a04296f3a788e14b43feef955fff0af27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\214f910c7d332fe3c9deb3702c5c64173f7afa17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_a1b18eac8ea5c44c80f91d1dc34f816cc7021f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\5897bda0c86f800f56e5e533ba51097da618cf3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_300282001ea0769daf1bd43bd02e4043cc7ecc44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\80705abab23a6d1aef05be88122c1c1a3eedea26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3145594a8615e494f09a0608e0389c6113e7bf13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\e791e4d5527f401bc7e5236d0cf9d71f6db28c42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_c71b5e8a04296f3a788e14b43feef955fff0af27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\5897bda0c86f800f56e5e533ba51097da618cf3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_300282001ea0769daf1bd43bd02e4043cc7ecc44\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\80705abab23a6d1aef05be88122c1c1a3eedea26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_3145594a8615e494f09a0608e0389c6113e7bf13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\214f910c7d332fe3c9deb3702c5c64173f7afa17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1b18eac8ea5c44c80f91d1dc34f816cc7021f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\6dd417ce77e84520c616c406edea608464601486\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fa1ebefeaa7bb123b66511b6f57287aa62a4cfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e52fc71e5427f32e912ace4e85b0cd4f998194e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\6dd417ce77e84520c616c406edea608464601486\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_6fa1ebefeaa7bb123b66511b6f57287aa62a4cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\bfaada590e8c4e2412cc6d67f79683accc417869\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_c9357ed1507eb6a341eb23ae747f2a15add1e2f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\bfaada590e8c4e2412cc6d67f79683accc417869\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9357ed1507eb6a341eb23ae747f2a15add1e2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_449e24c90657ff8951b3db52f0448c077c239f6a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\bade042ab84afda066565a578ae69b122486460f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6538d64279f857926c04b4067940f18cb61b94d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\6520437fd98171637b823b00511ab2d3fd8a6740\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_01ff7177c9f640dfc72a1aa8fc77bf5eccb636f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\6520437fd98171637b823b00511ab2d3fd8a6740\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01ff7177c9f640dfc72a1aa8fc77bf5eccb636f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\991e09df9bf6303dcd60f1ebed6b1b4eb6612353\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0017a8a9541464d304b45acadf644e9f98c6b1ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\bade042ab84afda066565a578ae69b122486460f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_6538d64279f857926c04b4067940f18cb61b94d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\95b08980a71d1aacce44bc110f21d1434bc4d62a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a09a1f760313c2e3095046722b6f9c94660ba05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\cce12dd2dffe6338f8c9c2ec1472ed53aa3a903e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_2b1c12040500bd879093d5cfd8ba2d1722313e19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6320ecb417723118799e25fa5f41df84f9afac92">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e4d280a1c79c2322516d87a3a0187f19330da82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_449e24c90657ff8951b3db52f0448c077c239f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\5ad3af9ecbfbb432f290eb8006abe652cc6635f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_d157fab6c356f2247e6cbffe1eb86d06fec6c8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\991e09df9bf6303dcd60f1ebed6b1b4eb6612353\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_0017a8a9541464d304b45acadf644e9f98c6b1ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\5ad3af9ecbfbb432f290eb8006abe652cc6635f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d157fab6c356f2247e6cbffe1eb86d06fec6c8c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\95b08980a71d1aacce44bc110f21d1434bc4d62a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_a09a1f760313c2e3095046722b6f9c94660ba05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Callum\.android\build-cache\750e955ca3701e1bce1b3c7a14b3b263b2c1bca0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\classes_02313ddacae2abb4724d7040a8c45fa4919dcf0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\750e955ca3701e1bce1b3c7a14b3b263b2c1bca0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02313ddacae2abb4724d7040a8c45fa4919dcf0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1edb48c3b979b28e4d38bacebf35d1054b290dcf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1edb48c3b979b28e4d38bacebf35d1054b290dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Callum\.android\build-cache\cce12dd2dffe6338f8c9c2ec1472ed53aa3a903e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Mega\Libarys\Documents\Projects\Programming\Android\GDABuddy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b1c12040500bd879093d5cfd8ba2d1722313e19\classes.dex" />
+    </item>
+
+</items>

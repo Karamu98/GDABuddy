@@ -1,0 +1,7 @@
+#Thu Mar 08 23:06:41 GMT 2018
+base.0=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e4d280a1c79c2322516d87a3a0187f19330da82
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e52fc71e5427f32e912ace4e85b0cd4f998194e2\\classes.dex
+base.1=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e52fc71e5427f32e912ace4e85b0cd4f998194e2
+file.0=D\:\\Mega\\Libarys\\Documents\\Projects\\Programming\\Android\\GDABuddy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e4d280a1c79c2322516d87a3a0187f19330da82\\classes.dex
